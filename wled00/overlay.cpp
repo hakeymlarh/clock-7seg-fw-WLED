@@ -5,7 +5,7 @@
  */
 
 #define NUM_DIGITS             4     // Number of connected Digits 
-#define NUM_PIXEL_PER_SEGMENT  2     // Number of LEDs in each Segment
+#define NUM_PIXEL_PER_SEGMENT  1     // Number of LEDs in each Segment
 #define NUM_PIXEL_PER_DOTS     2     // Number of pixel per dots
 
 #define NUM_DOTS               (NUM_DIGITS/2) - 1 //Number of "dots" between digits: 1 for 4 digits, 2 for 6 digits
